@@ -1,4 +1,4 @@
-from event_topic import EventTopic
+from .event_topic import EventTopic
 
 
 class EventProducer:
